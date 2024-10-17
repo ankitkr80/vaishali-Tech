@@ -6,7 +6,7 @@ import SlidingCards from './components/SlidingCards';
 import Contact from './components/Contact';
 import BottomBar from './components/BottomBar';
 import OnlinePresence from './components/OnlinePresence';
-import FeaturesGrid from './components/ FeaturesGrid';
+import FeaturesGrid from './components/FeaturesGrid';
 import Teammember from './components/Teammember';
 import Abhisek from './components/Abhisek';
 import About from './components/About';
